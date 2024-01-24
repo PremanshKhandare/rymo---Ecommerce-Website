@@ -4,7 +4,8 @@ Rymo is a vibrant, user-friendly e-commerce website template built with HTML, CS
 
 Features:
 
-*Mobile-first design: Looks stunning on all devices, from desktops to smartphones.
+*Mobile-first design: Looks stunning on all devices, from desktops to smartphones.  
+
 *Multi-page navigation: Seamlessly browse through Home, Shop, Product Details, Cart, and Checkout pages.
 *Product listings: ️ Showcase your products with captivating visuals, descriptions, and prices.
 *Cart and checkout: Add items to your cart, manage quantities, and proceed to secure checkout.
