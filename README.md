@@ -1,4 +1,4 @@
-**Rymo: Responsive & Multi-page E-commerce Website**
+<h2>Rymo: Responsive & Multi-page E-commerce Website</h2>  
 
 **Rymo** is a vibrant, user-friendly e-commerce website template built with HTML, CSS, and JavaScript. It boasts beautiful responsiveness, smooth navigation across multiple pages, and all the essential features to kickstart your online store.
 
