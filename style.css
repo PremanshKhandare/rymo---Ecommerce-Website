@@ -652,3 +652,10 @@ footer .copyright{
 #prodetails .single-pro-details span{
     line-height: 25px;
 }
+
+/* Blog Page */
+
+#page-header .blog-header{
+    background-image: url("img/banner/blog.jpg");
+}
+
