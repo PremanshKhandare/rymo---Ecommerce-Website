@@ -915,6 +915,10 @@ footer .copyright{
 
 /* cart page */
 
+#cart{
+    overflow-x: auto;
+}
+
 #page-header5{
     background-image: url("img/cart/cart.jpg");
     width: 100%;
